@@ -12,6 +12,7 @@ namespace MyApp
         static void Main(string[] args)
         {
             Console.WriteLine("Git测试成功");
+            Console.WriteLine("Git测试2");
         }
     }
 }
